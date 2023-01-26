@@ -1,0 +1,8 @@
+cudatoolkit==10.0.130
+cudnn==7.6.5
+numpy==1.18.1
+pandas==1.0.3
+python==3.7.6
+scikit-learn==0.20.3
+scipy==1.4.1
+tensorflow-gpu==1.15.0
